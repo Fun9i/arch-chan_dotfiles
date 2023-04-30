@@ -28,12 +28,6 @@ Plug 'vim-airline/vim-airline-themes'
 "Add syntax highlighting support for rasi config file
 Plug 'Fymyte/rasi.vim'
 
-"Color-highlighter
-Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
-
-"Colorizer
-Plug 'chrisbra/Colorizer'
-
 call plug#end()
 
 "========================================================================================

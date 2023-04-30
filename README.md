@@ -1,17 +1,21 @@
 # arch-chan_dotfiles
 dotfiles from my arch linux rice
 
-OS:         arch linux <br>
-WM:         bspwm <br>
-Bar:        polybar <br>
-Launcher:   rofi <br>
-Terminal:   Kitty <br> 
-System-monitor: htop <br>
-System-fetcher: fastfetch <br> 
-File-Manager: Ranger <br>
-Browser: brave <br>
-Code-Editor: VSCode <br>
-Clock: try-clock <br>
+OS:                             arch linux <br>
+WM:                             bspwm <br>
+Bar:                            polybar <br>
+Launcher:                       rofi <br>
+Terminal:                       kitty <br> 
+System-Monitor:                 htop <br>
+System-Fetcher:                 fastfetch <br> 
+File-Manager:                   ranger <br>
+Browser:                        brave <br>
+Code-Editor:                    VSCode <br>
+Clock:                          try-clock <br>
+GTK-Theme:                      sweet-dark <br>
+GTK-Icons:                      sweet-purple, candy-icons <br>
+System and Terminal font:       JetBrains Mono - Regular
+
 
 I hope I have included everything important
 

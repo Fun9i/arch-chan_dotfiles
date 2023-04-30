@@ -37,6 +37,10 @@ push window left            -       alt + shift + h<br>
 push window right           -       alt + shift + l<br>
 push window up              -       alt + shift + k<br>
 push window down            -       alt + shift + j<br>
+enter fullscreen mode       -       alt         + f<br>
+exit fullscreen mode        -       alt         + t<br>
+start 'VSCode'              -       alt         + c<br>
+start 'brave'               -       alt         + b<br>
 
 <hr
 

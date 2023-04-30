@@ -15,6 +15,14 @@
 alt + Return
 	kitty
 
+#start 'vscode'
+alt + c
+	code
+
+#start browser
+alt + b
+	brave
+
 # program launcher
 alt + d 
 	rofi -show drun

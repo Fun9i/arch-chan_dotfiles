@@ -20,5 +20,25 @@ System and Terminal font:       JetBrains Mono - Regular
 
 I hope I have included everything important
 
+<hr>
+
+important shortcuts:<br><br>
+open terminal               -       alt         + enter<br>
+kill window                 -       alt         + w<br>
+open rofi in drun mode      -       alt         + d<br>
+open rofi in run mode       -       alt + shift + d<br>
+switch workspace            -       alt         + <1-4><br>
+focus left                  -       alt         + h<br>
+focus right                 -       alt         + l<br>
+focus up                    -       alt         + k<br>
+focus down                  -       alt         + j<br>
+push window to wokrspace    -       alt + shift + <1-4><br>
+push window left            -       alt + shift + h<br>
+push window right           -       alt + shift + l<br>
+push window up              -       alt + shift + k<br>
+push window down            -       alt + shift + j<br>
+
+<hr
+
 ![arch-chan_screenshot](https://i.redd.it/op10os6dn1xa1.jpg)
 S

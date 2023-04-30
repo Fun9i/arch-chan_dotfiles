@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/muk/.config/ranger'
+let g:netrw_dirhist_4='/usr/share/themes/Sweet-Dark/gtk-3.0'
+let g:netrw_dirhist_3='/home/muk/.config/kitty'
+let g:netrw_dirhist_2='/usr/share/themes/Sweet-Dark/gtk-3.0'
+let g:netrw_dirhist_1='/home/muk/.config/sxhkd'

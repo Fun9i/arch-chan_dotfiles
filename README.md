@@ -11,6 +11,7 @@ System-Fetcher:                 fastfetch <br>
 File-Manager:                   ranger <br>
 Browser:                        brave <br>
 Code-Editor:                    VSCode <br>
+Text-Editor:                    vim <br>
 Clock:                          try-clock <br>
 GTK-Theme:                      sweet-dark <br>
 GTK-Icons:                      sweet-purple, candy-icons <br>
@@ -20,3 +21,4 @@ System and Terminal font:       JetBrains Mono - Regular
 I hope I have included everything important
 
 ![arch-chan_screenshot](https://i.redd.it/op10os6dn1xa1.jpg)
+S

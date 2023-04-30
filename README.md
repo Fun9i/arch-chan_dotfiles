@@ -14,3 +14,5 @@ Code-Editor: VSCode <br>
 Clock: try-clock <br>
 
 I hope I have included everything important
+
+![arch-chan_screenshot](https://i.redd.it/op10os6dn1xa1.jpg)

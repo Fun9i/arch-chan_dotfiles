@@ -45,4 +45,3 @@ start 'brave'               -       alt         + b<br>
 <hr
 
 ![arch-chan_screenshot](https://i.redd.it/op10os6dn1xa1.jpg)
-S
